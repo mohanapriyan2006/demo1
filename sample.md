@@ -1,7 +1,8 @@
 ### Case Study: Hadoop for Social Media Analytics
 
 #### Introduction
-     Social media platforms generate vast amounts of data every second, including posts, comments, likes, shares, and more. Analyzing this data can provide valuable insights into user behavior, trends, and sentiment. However, the sheer volume, velocity, and variety of social media data make it challenging to process using traditional data processing tools. Hadoop, with its distributed computing capabilities, is well-suited to handle such big data challenges.
+
+   Social media platforms generate vast amounts of data every second, including posts, comments, likes, shares, and more. Analyzing this data can provide valuable insights into user behavior, trends, and sentiment. However, the sheer volume, velocity, and variety of social media data make it challenging to process using traditional data processing tools. Hadoop, with its distributed computing capabilities, is well-suited to handle such big data challenges.
 
 #### Problem Statement
    A social media analytics company aims to  analyze user interactions, sentiment, and trends from millions of posts and comments daily. The goal is to provide actionable insights to businesses for marketing, customer engagement, and brand monitoring. The challenges include:
