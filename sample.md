@@ -1,4 +1,4 @@
-## Case Study: Hadoop for Social Media Analytics
+# Case Study: Hadoop for Social Media Analytics
 
 
 #### Introduction
